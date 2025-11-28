@@ -1,4 +1,4 @@
-baseURL = 'https://abraham-armenta.github.io/valepage/'
+baseURL = 'https://abraham-armenta.github.io/Page_hugo/'
 languageCode = 'en-us'
 title = "PAGINA DE HUGO"
 theme = "PaperMod"
