@@ -1,6 +1,6 @@
 baseURL = 'https://abraham-armenta.github.io/valepage/'
 languageCode = 'en-us'
-title = "Mi sitio para Valentina"
+title = "PAGINA DE HUGO"
 theme = "PaperMod"
 
 # Recomendado para GitHub Pages
